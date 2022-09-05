@@ -1,0 +1,17 @@
+.container{
+    max-width: 200px;
+    max-height: 200px;
+
+}
+.row{
+     max-width: 200px;
+    max-height: 200px;
+}
+.col{
+    max-width: 200px;
+    max-height: 200px;
+}
+.card-body{
+    max-width: 200px;
+    max-height: 200px;
+}

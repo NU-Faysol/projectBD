@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*------------------------------- 
+ Header section Start here  
+ -------------------------------*/
+
+.colorOrange {
+  color: orange;
+}
+.colorWhite {
+  color: white;
+}
+
+/*------------------------------- 
+ header section ends here  
+ -------------------------------*/
+
+/* -------------------------- */
+
+
+/*------------------------------- 
+ blog section start here  
+ -------------------------------*/
+
+ 
+/* -------------------------- */
+/*------------------------------- 
+ bolg section ends here  
+ -------------------------------*/
+
+/* -------------------------- */
+
+
+
+/*------------------------------- 
+ Footer section Start here  
+ -------------------------------*/
+
+.line-height-1 {
+  line-height: 55px;
+}
+
+.footer {
+  background: #000;
+  height: 200px;
+  color: white;
+  text-align: center;
+}
+
+.text-blue {
+  color: rgb(227 74 56);
+}
+
+.color_orange {
+  color: orange;
+}
+
+/*------------------------------- 
+Footer section end here  
+ -------------------------------*/
+
+/* place/card section  */
+
+.ancor{
+  text-decoration: none;
+  color: black;
+  
+}

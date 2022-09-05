@@ -1,0 +1,96 @@
+ body{
+    background-color:rgb(226, 233, 240);
+    /* background-image: url('../bgs/Light\ brick\ wall\ texture\ background.jpg'); */
+ 
+}
+
+.card{
+    border:none;
+    position:relative;
+    overflow:hidden;
+    border-radius:20px;
+    cursor:pointer;
+    background-color: aliceblue;
+}
+.fonts{
+    font-size:11px;
+}
+
+
+/* .card:before{
+    
+    content:"";
+    position:absolute;
+    left:0;
+    top:0;
+    width:0px;
+    height:100%;
+    background-color:#ffffff;
+
+    transform:scaleY(1);
+    transition:all 0.5s;
+    transform-origin: bottom
+} */
+
+/* .navbar:hover{
+    cursor: pointer;
+    color: orange;
+
+}
+
+.nav-item:hover{
+    color: orange;
+} */
+
+/* .card:after{
+    
+    content:"";
+    position:absolute;
+    left:0;
+    top:0;
+    width:40px;
+    height:100%;
+   
+    transform:scaleY(0);
+    transition:all 0.5s;
+    transform-origin: bottom;
+} */
+
+/* .card:hover::after{
+    transform:scaleY(1);
+} */
+
+/* .social-list{
+    display:flex;
+    list-style:none;
+    justify-content:center;
+    padding:0;
+}
+
+.social-list li{
+    padding:10px;
+    color:darkblue;
+    font-size:19px;
+} */
+
+
+/* .buttons button:nth-child(1){
+       border:1px solid  #262626 !important;
+       color:white;
+       height:40px;
+} */
+
+ /* .buttons button:nth-child(1):hover{
+       border:1px solid darkblue !important;
+       color:#fff;
+       height:40px;
+       background-color: #262626;
+} */
+
+/* .buttons button:nth-child(2){
+       border:1px solid darkblue !important;
+       background-color:darkblue;
+       color:#fff;
+        height:40px;
+} */
+
